@@ -1,7 +1,7 @@
 <div align="center">
   <br />
   <p>
-    <a href="https://discord.js.org"><img src="<center><img src="<center><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Node.js&fontSize=150&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
+    <a href="https://discord.js.org"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Node.js&fontSize=150&fontAlignY=35&animation=twinkling&fontColor=gradient" /></center>
 
 ## 📎 Requirement
 * [Nodejs](https://nodejs.org/en/)-v16 
