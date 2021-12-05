@@ -17,7 +17,7 @@
 <div align="left">
 <table>
   <tr>
-     <td align="center"><a href="https://discord.com/users/567861998092550179"><img src="https://cdn.discordapp.com/avatars/567861998092550179/a_3f79ff04ec2e9fd68bb0f80401bd817a.png?size=256&f=.gif?size=512" width="100px;" alt="Blacky"/><br /><sub><b>blacky</b></sub></a><br /><a href="https://discord.com/users/491577179495333903" title="Owner">👑</a></td>
+     <td align="center"><a href="https://discord.com/users/567861998092550179"><img src="https://cdn.discordapp.com/avatars/567861998092550179/a_3f79ff04ec2e9fd68bb0f80401bd817a.gif?size=256&f=.gif?size=512" width="100px;" alt="Beds"/><br /><sub><b>bedsroom</b></sub></a><br /><a href="https://discord.com/users/567861998092550179" title="Owner">👑</a></td>
      
   </tr>
 </table>
