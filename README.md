@@ -12,7 +12,7 @@
 [![DiscordBanner](https://invidget.switchblade.xyz/7UVyMnnPXW)](https://discord.gg/7UVyMnnPXW)
 [Support Server](https://discord.gg/7UVyMnnPXW)
 :----:
-### Special thanks to Venom
+
 ## 👥 TEAMS ##
 <div align="left">
 <table>
@@ -23,4 +23,6 @@
 </table>
 </div>
 
+##BedsRoom Bot Is NOT Public
+  
 <hr>
