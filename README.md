@@ -25,3 +25,8 @@
 BedsRadio Bot Is NOT Public
   
 <hr>
+  
+  **Profile**  
+  | <img src = "https://avatars.githubusercontent.com/u/91224083?v=4"> | 
+| :----------------------------------------------------------: | 
+|     [BedsRoom](https://github.com/bedsroom) |   
