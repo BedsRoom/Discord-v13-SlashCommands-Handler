@@ -22,6 +22,6 @@
   </tr>
 </table>
 </div>
-BedsRoom Bot Is NOT Public
+BedsRadio Bot Is NOT Public
   
 <hr>
